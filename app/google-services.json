@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077766872177",
+    "firebase_url": "https://bplace-995.firebaseio.com",
+    "project_id": "bplace-995",
+    "storage_bucket": "bplace-995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077766872177:android:6e5a7fe3742e3292",
+        "android_client_info": {
+          "package_name": "com.mobeecode.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077766872177-ttcsptnu7k8ono4401u0gkkvbdn0dphi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvImZP9MzbAPi_WBiE8q5AM_tQRlcbQY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
