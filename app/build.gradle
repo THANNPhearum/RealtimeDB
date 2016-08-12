@@ -53,5 +53,9 @@ dependencies {
     provided 'org.glassfish:javax.annotation:10.0-b28'
 
     //Adding Firebase
-    compile 'com.firebase:firebase-client-android:2.4.0'
+    compile 'com.google.firebase:firebase-core:9.4.0'
+    compile 'com.google.firebase:firebase-auth:9.4.0'
+    compile 'com.google.firebase:firebase-database:9.4.0'
 }
+
+apply plugin: 'com.google.gms.google-services'

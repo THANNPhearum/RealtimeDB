@@ -1,25 +1,21 @@
 package com.example.phearum.realtimedb.ui.fragment;
 
-import com.example.phearum.realtimedb.MyApp;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+
 import com.example.phearum.realtimedb.R;
 import com.example.phearum.realtimedb.databinding.FragmentHomeBinding;
-import com.example.phearum.realtimedb.model.SettingFirebase;
-import com.example.phearum.realtimedb.model.User;
-import com.example.phearum.realtimedb.model.UserFirebase;
-import com.firebase.client.DataSnapshot;
-import com.firebase.client.FirebaseError;
-import com.firebase.client.ValueEventListener;
+import com.example.phearum.realtimedb.intent.ChatIntent;
+import com.example.phearum.realtimedb.intent.SignInIntent;
+import com.example.phearum.realtimedb.intent.SignUpIntent;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
-import javax.inject.Inject;
 
 /**
  * Created by phearum on 8/9/16.
@@ -27,11 +23,6 @@ import javax.inject.Inject;
 public class HomeFragment extends Fragment {
 
     private FragmentHomeBinding mHomeBinding;
-    @Inject
-    UserFirebase mUserFirebase;
-
-    @Inject
-    SettingFirebase mSettingFirebase;
 
     @Nullable
     @Override
@@ -43,65 +34,27 @@ public class HomeFragment extends Fragment {
     }
 
     @Override
-    public void onCreate(@Nullable Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        MyApp.getAppComponent(getContext()).inject(this);
-    }
-
-    @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
-        mHomeBinding.submit.setOnClickListener(new View.OnClickListener() {
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if (user != null) {
+            startActivity(new ChatIntent(getContext()));
+        }
+        mHomeBinding.signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                doSubmit();
-            }
-        });
-        mUserFirebase.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                try {
-                    User user = dataSnapshot.getValue(User.class);
-                    Log.e("HomeFragment", "[onDataChange] " + user.toString());
-                    String separator = "------------------\n";
-                    mHomeBinding.log.append(separator);
-                    mHomeBinding.log.append(user.toString());
-                } catch (Exception exception) {
-
-                }
-
-            }
-
-            @Override
-            public void onCancelled(FirebaseError firebaseError) {
-                Log.e("HomeFragment", "[onCancelled] " + firebaseError.getMessage());
+                startActivity(new SignUpIntent(getContext()));
+                getActivity().finish();
             }
         });
 
-        mSettingFirebase.addValueEventListener(new ValueEventListener() {
+        mHomeBinding.login.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                Log.d("HomeFragment", "[onDataChange] " + dataSnapshot.getKey());
-            }
-
-            @Override
-            public void onCancelled(FirebaseError firebaseError) {
-
+            public void onClick(View view) {
+                startActivity(new SignInIntent(getContext()));
+                getActivity().finish();
             }
         });
-
     }
-
-    private void doSubmit() {
-        String name = mHomeBinding.name.getText().toString();
-        String email = mHomeBinding.email.getText().toString();
-        String password = mHomeBinding.password.getText().toString();
-
-        User user = new User(name, email, password);
-        mUserFirebase.child(User.NAME).setValue(user);
-
-    }
-
 
 }

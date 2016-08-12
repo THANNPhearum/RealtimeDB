@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ebcfcc9399f7bbf8a54985d9c5b82487df44c038/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_6e1ca4f065dc2ec3ab414d57f32a11cad1afb590/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_21c09018119a8ea83043ae34a2e06307f20f9322/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_f816600968b02218ed552256efdedeaf3236c899/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/development/as2.0/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.1.2/baseLibrary-2.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="357d1307d303c4771283372a53fd7c45e0c19c89">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.1.2_a41d45f700863cf4035c72a16ba5797865e982a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f6b15cee34247df456599ed11e781aa8893041e7/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.1_a2d17fd0f8391b372fb2127d4961bfc5af5218eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_cb4092426dfd570d751cbabbb531881122a2816b/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_fa88df026fb9107c472331a1f554c35e7075a262/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_d1dbacb1c6ae695a08386e6c436215fb80b793c3/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_d9bad424b2712e585106daadb3bafc8173ccbf6f/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aa3f5a7c8af4018b45e26180040ea6531200d4a0">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd2b612670ee9ad0e8a3054c98b212d9da7f42da/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_679a3f0fa84dd2118d16855ed837b55abd6e7482/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_d66d834fd9f23c4d7a32683c11eefec612143c83/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c0c1e895290b5b6f5b4b8f865624c4b34a5ef576">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aab815253f7451fd990bf31e219349a59cc555b6/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.2/de8416eda7b2fd7c25836b140c39e1cbf10542f6/dagger-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.0.2_459d5b4e20f0f5d579f4c8c4427eb949990e8c49/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_43625ce5129c2e920a619ddfae6915272125442a/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.4.0_5668b3779de969f2019e5f957e32e048f305f8c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_7168a50fc560f40ef118044308fa19b4bd443ac8/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.1_3c7d68f2bd351f6a515ecae75539443591ef6770/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_5c1928ddf1712344aa9d38335ea782d0e7f4f1ba/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_b2263468556e933c419ff1183f65eec21c254b42/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/nz.bradcampbell.compartment/compartment/0.0.4/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a30415b3f731a083d137838449f29fb44d19efe3">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/nz.bradcampbell.compartment-compartment-0.0.4_00bc91af257653f57e654f49e9caac8a192544f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_9ed46234eba5ea3dfadf64a08597cba6efd2836d/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_3de0cd5a60daa699525307235d86f357afa9409a/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_46208129b9c8f7ae761b0d7117f2b6743dd5c221/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.0_fab9aa475d306aa4b04b23e6f2b6c6d91e7baa61/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_48a3fe68df4667c4dbe024efe10679a549c35189/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_34d47a4fc7686e4777093b994e2f62293a685823/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_cd8bd83435c81bdc8abd88b0ebe932e74de0a562/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_45492bcfac76a2702b98b6bd36069a3febb651ea/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_36e17316a7507f4c4618e0519dcad29c76d603a3/classes.dex" />
+    </item>
+    <item
+        jar="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/phearum/company/techtalk/workspace/RealtimeDB/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_65ee89213472db3e934215b83678b9d1b7c2212d/classes.dex" />
+    </item>
+
+</items>

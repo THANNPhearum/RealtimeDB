@@ -1,11 +1,9 @@
 package com.example.phearum.realtimedb.dagger.module;
 
-import com.example.phearum.realtimedb.Constant;
+import com.google.firebase.database.FirebaseDatabase;
+
 import com.example.phearum.realtimedb.MyApp;
 import com.example.phearum.realtimedb.dagger.scope.AppScope;
-import com.example.phearum.realtimedb.model.SettingFirebase;
-import com.example.phearum.realtimedb.model.UserFirebase;
-import com.firebase.client.Firebase;
 
 import dagger.Module;
 import dagger.Provides;
@@ -29,21 +27,11 @@ public class ApplicationModule {
         return mApp;
     }
 
-    @Provides
-    @AppScope
-    public Firebase provideFirebase() {
-        return new Firebase(Constant.FIREBASE_URL);
-    }
 
     @Provides
     @AppScope
-    public UserFirebase provideUserFirebase() {
-        return new UserFirebase();
+    public FirebaseDatabase provideFirebase() {
+        return FirebaseDatabase.getInstance();
     }
 
-    @Provides
-    @AppScope
-    public SettingFirebase provideSettingFirebase() {
-        return new SettingFirebase();
-    }
 }

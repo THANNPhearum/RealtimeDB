@@ -3,7 +3,6 @@ package com.example.phearum.realtimedb;
 import com.example.phearum.realtimedb.dagger.component.AppComponent;
 import com.example.phearum.realtimedb.dagger.component.DaggerAppComponent;
 import com.example.phearum.realtimedb.dagger.module.ApplicationModule;
-import com.firebase.client.Firebase;
 
 import android.app.Application;
 import android.content.Context;
@@ -23,8 +22,6 @@ public class MyApp extends Application {
             .applicationModule(new ApplicationModule(this))
             .build();
 
-        Firebase.setAndroidContext(this);
-        Firebase.getDefaultConfig().setPersistenceEnabled(true);
     }
 
     public static AppComponent getAppComponent(Context context) {
